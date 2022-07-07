@@ -1,0 +1,1 @@
+# In this notebook I have analysed the monkey pox data. The dataset is  taken from  kaggle(https://www.kaggle.com/code/andrewmvd/monkeypox-cases-analysis/data).
